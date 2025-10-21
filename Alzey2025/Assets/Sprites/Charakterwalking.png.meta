@@ -1,10 +1,43 @@
 fileFormatVersion: 2
-guid: b46a9ad08605b91449ce1b722f7572d0
+guid: c6855aac32f703a41b806e7f06b52825
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1979136516466443058
-    second: Charakteridle_0
+      213: -5724980334729923025
+    second: Charakterwalking_0
+  - first:
+      213: 5239492961401273941
+    second: Charakterwalking_1
+  - first:
+      213: 3418288799931172572
+    second: Charakterwalking_2
+  - first:
+      213: -3961438544789174461
+    second: Charakterwalking_3
+  - first:
+      213: -1299692304557823849
+    second: Charakterwalking_4
+  - first:
+      213: -5483339827093206915
+    second: Charakterwalking_5
+  - first:
+      213: -7035172229439925725
+    second: Charakterwalking_6
+  - first:
+      213: -5262799729605983754
+    second: Charakterwalking_7
+  - first:
+      213: -4077343439420040045
+    second: Charakterwalking_8
+  - first:
+      213: -4971146338461315320
+    second: Charakterwalking_9
+  - first:
+      213: -2181361369251107002
+    second: Charakterwalking_10
+  - first:
+      213: 6033323959019125235
+    second: Charakterwalking_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +133,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Charakteridle_0
+      name: Charakterwalking_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,17 +148,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecc730ef2d1b884e0800000000000000
-      internalID: -1979136516466443058
+      spriteID: f267352c7b8cc80b0800000000000000
+      internalID: -5724980334729923025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_1
+      name: Charakterwalking_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 15
         y: 0
         width: 16
         height: 16
@@ -135,19 +168,63 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 086c8ee8dedd011498b625080004284d
-      internalID: -1445070976
+      spriteID: 55e7b7f961b66b840800000000000000
+      internalID: 5239492961401273941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_2
+      name: Charakterwalking_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 31
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6089b7d83307f20800000000000000
+      internalID: 3418288799931172572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charakterwalking_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470d42d1a42609c0800000000000000
+      internalID: -3961438544789174461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charakterwalking_4
+      rect:
+        serializedVersion: 2
+        x: 63
         y: 0
         width: 16
         height: 16
@@ -157,19 +234,19 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a23c9a11df4447348b06f7edf223cf97
-      internalID: 221242560
+      spriteID: 798a58d2cb096fde0800000000000000
+      internalID: -1299692304557823849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_3
+      name: Charakterwalking_5
       rect:
         serializedVersion: 2
-        x: 48
+        x: 79
         y: 0
         width: 16
         height: 16
@@ -179,19 +256,19 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f6eb60d54aac11744bd34a794552b5f0
-      internalID: 355972087
+      spriteID: d788b5faa7347e3b0800000000000000
+      internalID: -5483339827093206915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_4
+      name: Charakterwalking_6
       rect:
         serializedVersion: 2
-        x: 64
+        x: 95
         y: 0
         width: 16
         height: 16
@@ -201,19 +278,85 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0e33c3d9d1467cc40a68997d82a66c3b
-      internalID: 84191885
+      spriteID: 3225a8a912c0e5e90800000000000000
+      internalID: -7035172229439925725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_5
+      name: Charakterwalking_7
       rect:
         serializedVersion: 2
-        x: 80
+        x: 111
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f140d88787c6f6b0800000000000000
+      internalID: -5262799729605983754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charakterwalking_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c591a9ebd5a67c0800000000000000
+      internalID: -4077343439420040045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charakterwalking_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f87815eb0f20bb0800000000000000
+      internalID: -4971146338461315320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charakterwalking_10
+      rect:
+        serializedVersion: 2
+        x: 159
         y: 0
         width: 16
         height: 16
@@ -223,19 +366,19 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2e28453d556ca754ea9cb7c1c502dff2
-      internalID: -833924555
+      spriteID: 64f270b546f3ab1e0800000000000000
+      internalID: -2181361369251107002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charakteridle_6
+      name: Charakterwalking_11
       rect:
         serializedVersion: 2
-        x: 96
+        x: 175
         y: 0
         width: 16
         height: 16
@@ -245,230 +388,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0ff298eb52c3e364893903f4b52acbf4
-      internalID: 1688492974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_7
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7bd5a6e621ea6e47911383dcbdded3e
-      internalID: -38506025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_8
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5857d6cf1856b7f4b814662ba284bd3e
-      internalID: 1441361509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_9
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 920d09a5f62603a49a2bcb1e2aa8ee11
-      internalID: -1494481539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_10
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd2520dda7ce2ad4b821b06e7b26cc40
-      internalID: 1656390374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_11
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bc03263259f2a24ba3b6e1a408c090e
-      internalID: -458427208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_12
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a361b40e5595a304785e7f8d3b5aa7ee
-      internalID: -662733569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_13
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c3117f5ac9b686429ce06a025a4ad4a
-      internalID: 1094645567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_14
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c66f95028139b804299ace9c8daea952
-      internalID: -102853354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_15
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fa989f82e3efbe43bc25021dbe2d3b6
-      internalID: -1105437771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charakteridle_16
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0435aa096374706469a696903a41c8ae
-      internalID: 897316587
+      spriteID: 3f93030cc2caab350800000000000000
+      internalID: 6033323959019125235
       vertices: []
       indices: 
       edges: []
@@ -477,7 +400,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fcebab6177845884f85736651ec12651
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -487,23 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Charakteridle_0: -1979136516466443058
-      Charakteridle_1: -1445070976
-      Charakteridle_10: 1656390374
-      Charakteridle_11: -458427208
-      Charakteridle_12: -662733569
-      Charakteridle_13: 1094645567
-      Charakteridle_14: -102853354
-      Charakteridle_15: -1105437771
-      Charakteridle_16: 897316587
-      Charakteridle_2: 221242560
-      Charakteridle_3: 355972087
-      Charakteridle_4: 84191885
-      Charakteridle_5: -833924555
-      Charakteridle_6: 1688492974
-      Charakteridle_7: -38506025
-      Charakteridle_8: 1441361509
-      Charakteridle_9: -1494481539
+      Charakterwalking_0: -5724980334729923025
+      Charakterwalking_1: 5239492961401273941
+      Charakterwalking_10: -2181361369251107002
+      Charakterwalking_11: 6033323959019125235
+      Charakterwalking_2: 3418288799931172572
+      Charakterwalking_3: -3961438544789174461
+      Charakterwalking_4: -1299692304557823849
+      Charakterwalking_5: -5483339827093206915
+      Charakterwalking_6: -7035172229439925725
+      Charakterwalking_7: -5262799729605983754
+      Charakterwalking_8: -4077343439420040045
+      Charakterwalking_9: -4971146338461315320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
