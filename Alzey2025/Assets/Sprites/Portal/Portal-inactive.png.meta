@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 2d23d02a8cdb70049877f8d4f2533bfa
+guid: de172dcfddd8c5f43ba10df7b03aa460
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7054029334527687334
-    second: Blocks-sheet_0
+      213: -8949411352158431089
+    second: Portal-inactive_0
   - first:
-      213: 7082285985603285349
-    second: Blocks-sheet_1
+      213: -8929290504261813350
+    second: Portal-inactive_1
   - first:
-      213: 8692698244278802650
-    second: Blocks-sheet_2
+      213: 3782324179305545013
+    second: Portal-inactive_2
   - first:
-      213: -4814609571714853118
-    second: Blocks-sheet_3
+      213: -8947034174573517016
+    second: Portal-inactive_3
   - first:
-      213: -6920912811842409749
-    second: Blocks-sheet_4
+      213: 8358940281997616213
+    second: Portal-inactive_4
   - first:
-      213: -1007587739946783810
-    second: Blocks-sheet_5
+      213: 9206355937520080918
+    second: Portal-inactive_5
   - first:
-      213: 5156801453288318029
-    second: Blocks-sheet_6
+      213: -9184814341152511247
+    second: Portal-inactive_6
   - first:
-      213: -6311690253089757650
-    second: Blocks-sheet_7
+      213: -8946716816795723828
+    second: Portal-inactive_7
   - first:
-      213: 198461151976901100
-    second: Blocks-sheet_8
+      213: 4527438730108720018
+    second: Portal-inactive_8
   - first:
-      213: -8282386622201137623
-    second: Blocks-sheet_9
+      213: 6230521561651312976
+    second: Portal-inactive_9
   - first:
-      213: 7473769634466486930
-    second: Blocks-sheet_10
+      213: -7286363521239964050
+    second: Portal-inactive_10
   - first:
-      213: -3866372335234815295
-    second: Blocks-sheet_11
+      213: -2921185924528294421
+    second: Portal-inactive_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blocks-sheet_0
+      name: Portal-inactive_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
-        width: 16
-        height: 16
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6aa35bf4e42f4e160800000000000000
-      internalID: 7054029334527687334
+      spriteID: f889fbd8acd4dc380800000000000000
+      internalID: -8949411352158431089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_1
+      name: Portal-inactive_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 144
-        width: 16
-        height: 16
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +170,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5617c919495594260800000000000000
-      internalID: 7082285985603285349
+      spriteID: a9bb4358899c41480800000000000000
+      internalID: -8929290504261813350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_2
+      name: Portal-inactive_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 144
-        width: 16
-        height: 16
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad856ed4ffaa2a870800000000000000
-      internalID: 8692698244278802650
+      spriteID: 53db0ec2dc38d7430800000000000000
+      internalID: 3782324179305545013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_3
+      name: Portal-inactive_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 112
-        width: 16
-        height: 16
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2079db97a121f2db0800000000000000
-      internalID: -4814609571714853118
+      spriteID: 827e34752dfb5d380800000000000000
+      internalID: -8947034174573517016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_4
+      name: Portal-inactive_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 16
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beaeea8577af3ff90800000000000000
-      internalID: -6920912811842409749
+      spriteID: 554eb2f16ebe00470800000000000000
+      internalID: 8358940281997616213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_5
+      name: Portal-inactive_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 112
-        width: 16
-        height: 16
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ebbee68f9445402f0800000000000000
-      internalID: -1007587739946783810
+      spriteID: 61851b3a2fb83cf70800000000000000
+      internalID: 9206355937520080918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_6
+      name: Portal-inactive_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,20 +280,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d44e7709993a09740800000000000000
-      internalID: 5156801453288318029
+      spriteID: 1fae0bb150cf88080800000000000000
+      internalID: -9184814341152511247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_7
+      name: Portal-inactive_7
       rect:
         serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,20 +302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e262a44d72f5868a0800000000000000
-      internalID: -6311690253089757650
+      spriteID: cc790e4f470e6d380800000000000000
+      internalID: -8946716816795723828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_8
+      name: Portal-inactive_8
       rect:
         serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
-        height: 16
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce94c41cd5311c200800000000000000
-      internalID: 198461151976901100
+      spriteID: 293d972a981b4de30800000000000000
+      internalID: 4527438730108720018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_9
+      name: Portal-inactive_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 926f043cf3d0f0d80800000000000000
-      internalID: -8282386622201137623
+      spriteID: 05973af7952477650800000000000000
+      internalID: 6230521561651312976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_10
+      name: Portal-inactive_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29ad97382e928b760800000000000000
-      internalID: 7473769634466486930
+      spriteID: e66a0247bf2a1ea90800000000000000
+      internalID: -7286363521239964050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blocks-sheet_11
+      name: Portal-inactive_11
       rect:
         serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 16
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,74 +390,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ca6ee498d2e75ac0800000000000000
-      internalID: -3866372335234815295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blocks-sheet_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9713135fd7f52245b55366f777b1d8c
-      internalID: -1874866712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blocks-sheet_13
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed2bb0c9fb8dc6241bc128937e2d2c85
-      internalID: -1368031389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blocks-sheet_14
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c21d92ef2a635ec4c9d05ababbafc3c3
-      internalID: 1695714665
+      spriteID: be5be95f0ecd577d0800000000000000
+      internalID: -2921185924528294421
       vertices: []
       indices: 
       edges: []
@@ -466,7 +400,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 14428d75042e40a478ed8b895a30c026
+    spriteID: 751f0538f905e4f4c86336a9c4bf7d15
     internalID: 0
     vertices: []
     indices: 
@@ -476,21 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Blocks-sheet_0: 7054029334527687334
-      Blocks-sheet_1: 7082285985603285349
-      Blocks-sheet_10: 7473769634466486930
-      Blocks-sheet_11: -3866372335234815295
-      Blocks-sheet_12: -1874866712
-      Blocks-sheet_13: -1368031389
-      Blocks-sheet_14: 1695714665
-      Blocks-sheet_2: 8692698244278802650
-      Blocks-sheet_3: -4814609571714853118
-      Blocks-sheet_4: -6920912811842409749
-      Blocks-sheet_5: -1007587739946783810
-      Blocks-sheet_6: 5156801453288318029
-      Blocks-sheet_7: -6311690253089757650
-      Blocks-sheet_8: 198461151976901100
-      Blocks-sheet_9: -8282386622201137623
+      Portal-inactive_0: -8949411352158431089
+      Portal-inactive_1: -8929290504261813350
+      Portal-inactive_10: -7286363521239964050
+      Portal-inactive_11: -2921185924528294421
+      Portal-inactive_2: 3782324179305545013
+      Portal-inactive_3: -8947034174573517016
+      Portal-inactive_4: 8358940281997616213
+      Portal-inactive_5: 9206355937520080918
+      Portal-inactive_6: -9184814341152511247
+      Portal-inactive_7: -8946716816795723828
+      Portal-inactive_8: 4527438730108720018
+      Portal-inactive_9: 6230521561651312976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
